@@ -1,0 +1,24 @@
+                                              job                       company          ssn  ...                                            address                       mail   birthdate
+0                          Recruitment consultant       Banks, Martin and Lynch  054-10-8586  ...     41542 Mary Well Suite 385\nKellystad, AK 03352        terri43@hotmail.com  2011-03-24
+1                                   Warden/ranger   Leonard, Coleman and Baxter  345-92-3006  ...        3001 Hicks Hollow\nJohnsonborough, RI 62622          kelly76@gmail.com  1955-01-06
+2                                 Legal executive    Ryan, Carroll and Mitchell  006-76-4730  ...    83402 Daniel Lodge\nSouth Yvettemouth, NY 09371     brittney23@hotmail.com  1978-05-14
+3                          Amenity horticulturist                     Adams PLC  842-18-1983  ...  1127 Albert Highway Apt. 127\nSouth Williamvie...     uarmstrong@hotmail.com  1941-08-23
+4                          Holiday representative               Taylor-Gonzalez  780-97-1634  ...                   PSC 1140, Box 9350\nAPO AE 12635  feliciafuller@hotmail.com  1914-09-23
+5                             Early years teacher                     Lewis PLC  741-02-2140  ...  396 Amber Terrace\nPort Christophermouth, MA 4...      alexandra57@gmail.com  2000-08-29
+6                           Engineer, maintenance            Stevenson-Richards  318-57-1307  ...  063 Ward Spurs Suite 781\nLake Davidfort, WI 8...      sethramirez@gmail.com  1948-05-28
+7                          Therapist, nutritional                     Ray Group  338-10-2462  ...        641 Cassandra Heights\nPort Aaron, AL 65607       rogermoore@yahoo.com  1973-10-12
+8                           Exercise physiologist                   Fox-Gilbert  800-76-6781  ...  5496 Swanson Drive Suite 981\nLake Teresa, NY ...      cassandra01@yahoo.com  2002-02-25
+9                                    Statistician                  Lee and Sons  483-44-9592  ...                   Unit 3097 Box 7959\nDPO AP 74877        colleen44@yahoo.com  1958-07-22
+10                             Personal assistant                   Johnson LLC  330-84-5557  ...  7013 Guerra Trace Apt. 121\nSarachester, WV 51073     lincolleen@hotmail.com  1960-10-27
+11                           Engineer, production                     Scott LLC  258-17-5685  ...                        USNV Woodward\nFPO AA 12734     gibsonjoseph@gmail.com  1936-12-30
+12                   Engineer, civil (consulting)  Mckenzie, Murray and Jackson  073-78-1288  ...         21774 Garcia Centers\nBrownburgh, CT 00648  christopher46@hotmail.com  2020-01-30
+13  Programme researcher, broadcasting/film/video                   Navarro Inc  800-54-3034  ...         3793 Danielle Road\nPort Melissa, WY 32238          wturner@yahoo.com  1963-08-17
+14            Exhibitions officer, museum/gallery    Griffin, Thomas and Gordon  346-45-8229  ...  483 Melissa Stream Apt. 537\nNorth Jackiechest...          jramsey@gmail.com  1978-04-03
+15                  Interior and spatial designer               Wilson and Sons  784-89-5503  ...   75689 Samantha Rue Apt. 692\nJonesberg, CT 60171         pwoods@hotmail.com  2011-05-29
+16           English as a second language teacher                  Odonnell LLC  063-30-2472  ...         176 Moore Tunnel\nValerieborough, ID 81857       nrodriguez@yahoo.com  1918-06-23
+17                                 Prison officer               Hansen and Sons  038-05-8723  ...        1738 Megan Avenue\nVillarrealside, NY 33550    timothywright@yahoo.com  2009-02-10
+18                                        Dentist                Robinson-Smith  734-41-9180  ...                          USNV Harper\nFPO AA 08249         medwards@gmail.com  1986-07-02
+19                           Journalist, magazine              Villarreal Group  371-35-6990  ...  6311 Kline Light Apt. 480\nPort Samuelmouth, M...        erica19@hotmail.com  1943-12-09
+20                       Customer service manager                 Howard-Romero  846-06-4151  ...   6192 Jones Summit Suite 279\nEast Joel, MT 82750       ryanrhodes@yahoo.com  1950-01-02
+
+[21 rows x 13 columns]
